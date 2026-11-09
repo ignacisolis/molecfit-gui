@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+.pytest_cache/
+
+# Datos y salidas (no se versionan)
+*.fits
+*.fit
+*.fts
+*.log
+molecfit_gui_out/
+salida*/
+debug*/
